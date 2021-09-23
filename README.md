@@ -1,1 +1,1 @@
-# Rozamiento-de-Fricci-n
+# Rozamiento de Fricción
