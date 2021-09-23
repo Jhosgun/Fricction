@@ -1,10 +1,6 @@
 # Rozamiento de Fricción
 
-
-<div align="center">
-<a href="https://github.com/juan-pineda"><img src="https://img.shields.io/apm/l/vim-mode" alt="website"/></a>
-<a href="https://halley.uis.edu.co/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-</div>
+This work is made to recreate a simulation of compressed paper and spread paper and analyze their behavior in the time, like position, velocity and acceleration.
 
 
 
