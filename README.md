@@ -15,8 +15,8 @@ You can find more about the technical usage in the <a href="https://github.com/J
 
 ## Authors ✒️
 * Jorge Alfredo Jaimes Teherán - <a href="https://github.com/Jhosgun">Jhosgun</a>
-* Juliana Paola Andrade Rodríguez - <a href="https://github.com/Jhosgun">Juliana</a>
-* Kevin Llanos - <a href="https://github.com/Jhosgun">Kevin</a>
+* Juliana Paola Andrade Rodríguez 
+* Kevin Llanos 
 
 
 
